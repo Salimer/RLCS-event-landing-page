@@ -69,10 +69,6 @@ h2 span {
     font-family: 'CocoGoose', sans-serif;
 }
 
-#location {
-    font-size: 0.7rem;
-}
-
 /* Main program  */
 .main-program {
     background-image: url('Assets/images/blackpattern.jpg');

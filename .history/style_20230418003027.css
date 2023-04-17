@@ -65,12 +65,12 @@ h2 {
     font-size: 1.2rem;
 }
 
-h2 span {
+/* h2 span {
     font-family: 'CocoGoose', sans-serif;
-}
+} */
 
-#location {
-    font-size: 0.7rem;
+.headline-text > span {
+    /* font-size: 0.6rem; */
 }
 
 /* Main program  */

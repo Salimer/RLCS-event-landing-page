@@ -69,7 +69,7 @@ h2 span {
     font-family: 'CocoGoose', sans-serif;
 }
 
-#location {
+.headline-text > span {
     font-size: 0.7rem;
 }
 
