@@ -24,7 +24,7 @@ body {
 header {
     position: fixed;
     width: 100%;
-    z-index: 1;
+    z-index: 9;
 }
 
 header img {
@@ -73,10 +73,6 @@ h2 span {
 
 .main-program img {
     width: 5%;
-}
-
-.main-program span {
-    min-width:4.4rem;
 }
 
 /* Featured  */

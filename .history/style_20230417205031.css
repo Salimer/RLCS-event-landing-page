@@ -24,11 +24,10 @@ body {
 header {
     position: fixed;
     width: 100%;
-    z-index: 1;
 }
 
 header img {
-    height: 30px;
+    height: 3rem;
 }
 
 /* Headline  */
@@ -73,10 +72,6 @@ h2 span {
 
 .main-program img {
     width: 5%;
-}
-
-.main-program span {
-    min-width:4.4rem;
 }
 
 /* Featured  */

@@ -21,16 +21,6 @@ body {
 }
 
 /* Header  */
-header {
-    position: fixed;
-    width: 100%;
-    z-index: 1;
-}
-
-header img {
-    height: 30px;
-}
-
 /* Headline  */
 .headline {
     height: 90vh;
@@ -75,10 +65,6 @@ h2 span {
     width: 5%;
 }
 
-.main-program span {
-    min-width:4.4rem;
-}
-
 /* Featured  */
 .underline {
     height: 1rem;
@@ -111,6 +97,11 @@ h2 span {
 }
 
 /* About page ============================================ */
+header {
+    position: fixed;
+    width: 100%
+}
+
 .past-events a {
     text-decoration: none;
     padding: 2rem 3.5rem;
