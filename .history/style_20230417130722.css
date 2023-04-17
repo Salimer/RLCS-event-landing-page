@@ -33,14 +33,7 @@ p {
 }
 
 h1 {
+    /* text-shadow: 4px 4px 0px black; */
     font-family: 'CocoGoose', sans-serif;
     font-weight: bold;
-}
-
-h2 {
-    font-family: 'CocoGooseNum',sans-serif;
-}
-
-h2 span {
-    font-family: 'CocoGoose', sans-serif;
 }

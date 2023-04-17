@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'lato', sans-serif;
+}
+
+.headline {
+    height: 100vh;
+}
+
+p {
+    font-size: .8em;
+    font-weight: 900;
+    text-shadow: 0 0 10px black;
+}
+
+h1 {
+    font-weight: 200;
+}

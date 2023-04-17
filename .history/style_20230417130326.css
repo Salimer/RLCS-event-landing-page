@@ -2,11 +2,9 @@
     font-family: 'CocoGoose';
     src: url('Assets/fonts/CocoGoose/Cocogoose\ Pro-trial.ttf') format('truetype');
 
-         font-family: 'CocoGooseNum';
-    src: url('Assets/fonts/CocoGoose/Cocogoose\ Pro\ Italic-trial.ttf') format('truetype');
-
-    font-weight: normal;
-    font-style: normal;
+         font-family: 'CocoGoose';
+    src: 
+         url('Assets/fonts/CocoGoose/Cocogoose\ Pro\ Italic-trial.ttf') format('truetype');
   }
 
 *{
@@ -24,23 +22,12 @@ body {
     height: 100vh;
 }
 
-.headline h1 span {
-    font-family: 'CocoGooseNum', sans-serif;
-}
-
 p {
     font-size: .8em;
 }
 
 h1 {
-    font-family: 'CocoGoose', sans-serif;
-    font-weight: bold;
-}
-
-h2 {
-    font-family: 'CocoGooseNum',sans-serif;
-}
-
-h2 span {
+    font-weight: 900;
+    /* text-shadow: 4px 4px 0px black; */
     font-family: 'CocoGoose', sans-serif;
 }
