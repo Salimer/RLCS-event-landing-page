@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'CocoGoose';
+    src: url('Assets/fonts/CocoGoose/Cocogoose\ Pro-trial.ttf') format('truetype');
+
+         font-family: 'CocoGooseNum';
+    src: url('Assets/fonts/CocoGoose/Cocogoose\ Pro\ Italic-trial.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+  }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'lato', sans-serif;
+}
+
+/* Headline  */
+.headline {
+    height: 90vh;
+}
+
+.headline h1 span {
+    font-family: 'CocoGooseNum', sans-serif;
+}
+
+p {
+    font-size: .8em;
+}
+
+h1 {
+    font-family: 'CocoGoose', sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'CocoGooseNum',sans-serif;
+}
+
+h2 span {
+    font-family: 'CocoGoose', sans-serif;
+}
+
+/* Main program  */
+.main-program {
+    background-color: bisque;
+    gap: 10px;
+}
+
+.main-program .underline {
+    height: 0;
+}
+
+.card {
+    gap: 1rem;
+}
+
+.main-program img {
+    width: 5%;
+}
+
+/* Featured  */
+.underline {
+    height: 1rem;
+    width: 30%;
+    max-width: 3rem;
+    border-bottom: 1px solid #ec5242;
+}
+
+.featured .card {
+    border: 0;
+}
+
+.featured-image-holder {
+    width: 11rem;
+    height: 6rem;
+    background-image: url("Assets/images/scratched.jpg");
+    background-size: 50% 50%;
+    background-repeat: no-repeat;    
+}
+
+.featured-image-holder img {
+    width: 85%;
+    height: 85%;
+}
+
+.guest .underline {
+    height: 0;
+    width: 10%;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+/* ============================================ About page  */
+.past-events a {
+    text-decoration: none;
+    padding: 5rem;
+}
+.event-holder {
+    /* : 5rem, 3rem; */
+    background-color: red;
+}
