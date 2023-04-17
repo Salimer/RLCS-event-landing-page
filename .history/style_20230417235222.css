@@ -33,16 +33,15 @@ header img {
 
 /* Headline  */
 .headline {
-    height: 87vh;
+    height: 90vh;
     background-image: url('Assets/images/hometopbg.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 
 .headline-text {
-    border: 5px solid #ec5242;
-    background-color: rgba(222, 226, 230, 0.9);
-    border-radius: 50px;
+    border: 2px solid white;
+    background-color: rgba(0, 0, 255, 0.5)
 }
 
 .headline h1 span {
@@ -61,7 +60,6 @@ h1 {
 
 h2 {
     font-family: 'CocoGooseNum',sans-serif;
-    color: #ec5242;
 }
 
 h2 span {

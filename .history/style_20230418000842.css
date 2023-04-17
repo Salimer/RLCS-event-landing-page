@@ -33,14 +33,14 @@ header img {
 
 /* Headline  */
 .headline {
-    height: 87vh;
+    height: 80vh;
     background-image: url('Assets/images/hometopbg.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 
 .headline-text {
-    border: 5px solid #ec5242;
+    border: 2px solid #ec5242;
     background-color: rgba(222, 226, 230, 0.9);
     border-radius: 50px;
 }
