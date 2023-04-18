@@ -34,26 +34,13 @@ header > div {
   background-color: #272a31;
 }
 
-a {
-  text-decoration: none;
-}
-
-header > div a {
+#social-media a {
   font-family: 'lato', sans-serif;
   font-size: 10px;
   color: #d3d3d3;
 }
 
-/* ================================================ */
-
-/* Footer  */
-footer img {
-  height: 2.5rem;
-}
-
-/* ================================================ */
-
-header > div img {
+#social-media img {
   height: 15px;
   filter: invert(100%);
 }
@@ -61,16 +48,6 @@ header > div img {
 header nav img {
   height: 35px;
 }
-
-/* ===================================================== */
-
-/* Partner  */
-.partner img {
-  height: 4rem;
-  width: 7rem;
-}
-
-/* ===================================================== */
 
 #home {
   color: #ec5242;
@@ -163,6 +140,15 @@ h2 {
   max-width: 30rem;
 }
 
+/* ================================================ */
+
+/* Footer  */
+footer img {
+  height: 2.5rem;
+}
+
+/* ================================================ */
+
 .main-program img {
   width: 11%;
   filter: invert(100%);
@@ -227,6 +213,10 @@ h2 {
   padding: 3rem 5rem;
 }
 
+a {
+  text-decoration: none;
+}
+
 .past-events a + a {
   margin-top: 3rem;
 }
@@ -246,6 +236,12 @@ h2 {
 /* Partner  */
 .partner {
   background-color: #272a31;
+}
+
+
+.partner img {
+  height: 4rem;
+  width: 7rem;
 }
 
 /* desktop version ============================================ */

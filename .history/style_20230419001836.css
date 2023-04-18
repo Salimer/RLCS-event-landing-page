@@ -53,11 +53,6 @@ footer img {
 
 /* ================================================ */
 
-header > div img {
-  height: 15px;
-  filter: invert(100%);
-}
-
 header nav img {
   height: 35px;
 }
@@ -71,6 +66,8 @@ header nav img {
 }
 
 /* ===================================================== */
+
+
 
 #home {
   color: #ec5242;

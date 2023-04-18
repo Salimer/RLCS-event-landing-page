@@ -34,9 +34,6 @@ header > div {
   background-color: #272a31;
 }
 
-a {
-  text-decoration: none;
-}
 
 header > div a {
   font-family: 'lato', sans-serif;
@@ -53,15 +50,6 @@ footer img {
 
 /* ================================================ */
 
-header > div img {
-  height: 15px;
-  filter: invert(100%);
-}
-
-header nav img {
-  height: 35px;
-}
-
 /* ===================================================== */
 
 /* Partner  */
@@ -71,6 +59,15 @@ header nav img {
 }
 
 /* ===================================================== */
+
+#social-media img {
+  height: 15px;
+  filter: invert(100%);
+}
+
+header nav img {
+  height: 35px;
+}
 
 #home {
   color: #ec5242;
