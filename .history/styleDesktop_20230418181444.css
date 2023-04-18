@@ -1,0 +1,72 @@
+/* desktop version ============================================ */
+@media screen and (min-width: 768px) {
+    /* backgrounds  */
+    #home-bg {
+      background-image: url('Assets/images/desktophome.jpg');
+    }
+  
+    #about-bg {
+      background-image: url('Assets/images/Unknown.jpg');
+    }
+  
+    /* Headline  */
+    .headline {
+      height: 90vh;
+      background-image: url('Assets/images/Unknown.jpg');
+    }
+  
+    .headline h1 {
+      font-size: 2rem;
+    }
+  
+    .headline-text {
+      width: 30%;
+    }
+  
+    /* Main program  */
+    .main-program-cards {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  
+    .main-program-cards article {
+      max-width: 10rem;
+    }
+  
+    .main-program-cards article + article {
+      margin-left: 0.5rem;
+    }
+  
+    .main-program img {
+      min-width: 30%;
+    }
+  
+    .main-program-cards article p {
+      max-width: 8rem;
+    }
+  
+    /* Featured  */
+    .featured-cards {
+      flex-wrap: wrap;
+    }
+  
+    .featured .card {
+      max-width: 48%;
+    }
+  
+    /* About page ============================================ */
+  
+    /* Logo story  */
+    .logo-story p {
+      max-width: 50%;
+    }
+  
+    /* Past events  */
+    .past-events a + a {
+      margin-top: 0;
+      margin-left: 3rem;
+    }
+  }
+  
