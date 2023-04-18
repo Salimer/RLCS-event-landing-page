@@ -21,16 +21,14 @@ body {
 }
 
 /* Header  */
-header {
-    font-family: 'CocoGoose', sans-serif;
-}
+/* header {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+} */
 
 header img {
-    height: 35px;
-}
-
-#home {
-    color: #ec5242;
+    height: 30px;
 }
 
 /* Headline  */

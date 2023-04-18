@@ -22,15 +22,11 @@ body {
 
 /* Header  */
 header {
-    font-family: 'CocoGoose', sans-serif;
+    font-family: ;
 }
 
 header img {
-    height: 35px;
-}
-
-#home {
-    color: #ec5242;
+    height: 30px;
 }
 
 /* Headline  */

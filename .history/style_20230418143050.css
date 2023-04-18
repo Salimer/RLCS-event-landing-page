@@ -22,15 +22,13 @@ body {
 
 /* Header  */
 header {
-    font-family: 'CocoGoose', sans-serif;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
 }
 
 header img {
-    height: 35px;
-}
-
-#home {
-    color: #ec5242;
+    height: 30px;
 }
 
 /* Headline  */
@@ -154,10 +152,7 @@ h2 span {
 
 /* About page ============================================ */
 /* Headline  */
-#contact {
-    color: gray;
-    font-size: 0.7rem;
-}
+
 
 /* Past events  */
 .past-events a {
