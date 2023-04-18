@@ -39,7 +39,7 @@ header img {
 #home-bg {
   background-image: url('Assets/images/hometopbg.jpg');
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-attachment: fixed;
 }
 
