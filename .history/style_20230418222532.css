@@ -44,7 +44,7 @@ header img {
 }
 
 #about-bg {
-  background-image: url('Assets/images/unknownmobilesmall.jpg');
+  background-image: url('Assets/images/unknownmobile.jpg');
   background-repeat: no-repeat;
   background-size: contain;
   background-attachment: fixed;
@@ -107,7 +107,7 @@ h2 {
 
 /* Main program  */
 .main-program {
-  background-image: url('Assets/images/blackpatternsmall.jpg');
+  background-image: url('Assets/images/blackpattern.jpg');
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-attachment: fixed;
