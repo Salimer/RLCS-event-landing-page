@@ -27,7 +27,7 @@ header {
 }
 
 header > div {
-  display: none;
+  display: flex;
   justify-content: end;
   align-items: center;
   gap: 10px;
@@ -36,13 +36,12 @@ header > div {
 
 #social-media a {
   font-family: 'lato', sans-serif;
-  font-size: 10px;
-  color: #d3d3d3;
+  height: 30px;
+  color: 
 }
 
 #social-media img {
-  height: 15px;
-  filter: invert(100%);
+
 }
 
 header nav img {
@@ -256,10 +255,6 @@ a {
     background-size: 100% 100%;
   }
 
-  /* Header  */
-  header > div {
-    display: flex;
-  }
   /* Headline  */
   .headline {
     height: 90vh;

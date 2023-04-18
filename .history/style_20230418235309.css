@@ -27,11 +27,12 @@ header {
 }
 
 header > div {
-  display: none;
+  display: flex;
   justify-content: end;
   align-items: center;
   gap: 10px;
   background-color: #272a31;
+  
 }
 
 #social-media a {
@@ -256,10 +257,6 @@ a {
     background-size: 100% 100%;
   }
 
-  /* Header  */
-  header > div {
-    display: flex;
-  }
   /* Headline  */
   .headline {
     height: 90vh;

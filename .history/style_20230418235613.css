@@ -27,7 +27,7 @@ header {
 }
 
 header > div {
-  display: none;
+  display: flex;
   justify-content: end;
   align-items: center;
   gap: 10px;
@@ -256,10 +256,7 @@ a {
     background-size: 100% 100%;
   }
 
-  /* Header  */
-  header > div {
-    display: flex;
-  }
+  Header 
   /* Headline  */
   .headline {
     height: 90vh;
