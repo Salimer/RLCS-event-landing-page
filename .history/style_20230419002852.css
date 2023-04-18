@@ -154,8 +154,8 @@ h2 {
 .main-program {
   background-image: url('Assets/images/blackpatternsmall.jpg');
   background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  background-size: contain;
+  background-attach/ment: fixed;
 }
 
 .main-program article {
@@ -283,7 +283,6 @@ h2 {
   .main-program {
     background-size: 100% 100%;
   }
-
   .main-program-cards {
     display: flex;
     flex-direction: row;
