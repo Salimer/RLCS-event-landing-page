@@ -223,12 +223,11 @@ footer img {
   /* backgrounds  */
   #home-bg {
     background-image: url('Assets/images/desktophome.jpg');
-    background-size: 100% 100%;
+    backgrou
   }
 
   #about-bg {
     background-image: url('Assets/images/Unknown.jpg');
-    background-size: 100% 100%;
   }
 
   /* Headline  */
