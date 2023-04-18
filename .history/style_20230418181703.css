@@ -61,26 +61,6 @@ header img {
   border-radius: 50px;
 }
 
-/* ================================================ */
-
-/* Headline  */
-h2 span {
-  font-family: 'CocoGoose', sans-serif;
-}
-
-/* Main program  */
-.main-program span {
-  min-width: 4.4rem;
-  color: #ec5242;
-}
-
-/* Featured  */
-.team span {
-  color: #ec5242;
-}
-
-/* ================================================ */
-
 .headline h1 span {
   font-family: 'CocoGooseNum', sans-serif;
 }
@@ -101,6 +81,10 @@ h2 {
   font-size: 1.2rem;
 }
 
+h2 span {
+  font-family: 'CocoGoose', sans-serif;
+}
+
 #location {
   font-size: 0.7rem;
 }
@@ -118,18 +102,19 @@ h2 {
   max-width: 30rem;
 }
 
-/* ================================================ */
-
 /* Footer  */
 footer img {
-  height: 2.5rem;
-}
-
-/* ================================================ */
+    height: 2.5rem;
+  }
 
 .main-program img {
   width: 11%;
   filter: invert(100%);
+}
+
+.main-program span {
+  min-width: 4.4rem;
+  color: #ec5242;
 }
 
 .main-program button {
@@ -170,6 +155,10 @@ footer img {
 
 .team {
   width: 100%;
+}
+
+.team span {
+  color: #ec5242;
 }
 
 .team .underline {
@@ -263,15 +252,6 @@ footer img {
     min-width: 30%;
   }
 
-  /* ================================================ */
-
-  /* Logo story  */
-  .logo-story p {
-    max-width: 50%;
-  }
-
-  /* ================================================ */
-
   .main-program-cards article p {
     max-width: 8rem;
   }
@@ -286,6 +266,11 @@ footer img {
   }
 
   /* About page ============================================ */
+
+  /* Logo story  */
+  .logo-story p {
+    max-width: 50%;
+  }
 
   /* Past events  */
   .past-events a + a {

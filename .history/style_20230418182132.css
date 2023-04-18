@@ -63,21 +63,16 @@ header img {
 
 /* ================================================ */
 
-/* Headline  */
-h2 span {
-  font-family: 'CocoGoose', sans-serif;
-}
-
-/* Main program  */
-.main-program span {
-  min-width: 4.4rem;
-  color: #ec5242;
-}
-
 /* Featured  */
 .team span {
   color: #ec5242;
 }
+
+/* Main program  */
+.main-program span {
+    min-width: 4.4rem;
+    color: #ec5242;
+  }
 
 /* ================================================ */
 
@@ -99,6 +94,10 @@ h2 {
   font-family: 'CocoGooseNum', sans-serif;
   color: #ec5242;
   font-size: 1.2rem;
+}
+
+h2 span {
+  font-family: 'CocoGoose', sans-serif;
 }
 
 #location {

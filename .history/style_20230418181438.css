@@ -61,26 +61,6 @@ header img {
   border-radius: 50px;
 }
 
-/* ================================================ */
-
-/* Headline  */
-h2 span {
-  font-family: 'CocoGoose', sans-serif;
-}
-
-/* Main program  */
-.main-program span {
-  min-width: 4.4rem;
-  color: #ec5242;
-}
-
-/* Featured  */
-.team span {
-  color: #ec5242;
-}
-
-/* ================================================ */
-
 .headline h1 span {
   font-family: 'CocoGooseNum', sans-serif;
 }
@@ -101,6 +81,10 @@ h2 {
   font-size: 1.2rem;
 }
 
+h2 span {
+  font-family: 'CocoGoose', sans-serif;
+}
+
 #location {
   font-size: 0.7rem;
 }
@@ -118,18 +102,14 @@ h2 {
   max-width: 30rem;
 }
 
-/* ================================================ */
-
-/* Footer  */
-footer img {
-  height: 2.5rem;
-}
-
-/* ================================================ */
-
 .main-program img {
   width: 11%;
   filter: invert(100%);
+}
+
+.main-program span {
+  min-width: 4.4rem;
+  color: #ec5242;
 }
 
 .main-program button {
@@ -170,6 +150,10 @@ footer img {
 
 .team {
   width: 100%;
+}
+
+.team span {
+  color: #ec5242;
 }
 
 .team .underline {
@@ -218,78 +202,8 @@ footer img {
   width: 7rem;
 }
 
-/* desktop version ============================================ */
-@media screen and (min-width: 768px) {
-  /* backgrounds  */
-  #home-bg {
-    background-image: url('Assets/images/desktophome.jpg');
-  }
-
-  #about-bg {
-    background-image: url('Assets/images/Unknown.jpg');
-  }
-
-  /* Headline  */
-  .headline {
-    height: 90vh;
-    background-image: url('Assets/images/Unknown.jpg');
-  }
-
-  .headline h1 {
-    font-size: 2rem;
-  }
-
-  .headline-text {
-    width: 30%;
-  }
-
-  /* Main program  */
-  .main-program-cards {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  .main-program-cards article {
-    max-width: 10rem;
-  }
-
-  .main-program-cards article + article {
-    margin-left: 0.5rem;
-  }
-
-  .main-program img {
-    min-width: 30%;
-  }
-
-  /* ================================================ */
-
-  /* Logo story  */
-  .logo-story p {
-    max-width: 50%;
-  }
-
-  /* ================================================ */
-
-  .main-program-cards article p {
-    max-width: 8rem;
-  }
-
-  /* Featured  */
-  .featured-cards {
-    flex-wrap: wrap;
-  }
-
-  .featured .card {
-    max-width: 48%;
-  }
-
-  /* About page ============================================ */
-
-  /* Past events  */
-  .past-events a + a {
-    margin-top: 0;
-    margin-left: 3rem;
-  }
+/* Footer  */
+footer img {
+  height: 2.5rem;
 }
+
