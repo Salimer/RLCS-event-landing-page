@@ -152,7 +152,11 @@ h2 {
 
 /* Main program  */
 .main-program {
+  /* background-image: url('Assets/images/blackpatternsmall.jpg'); */
   background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .main-program article {
@@ -277,6 +281,10 @@ h2 {
   }
 
   /* Main program  */
+  .main-program {
+    background-size: 100% 100%;
+  }
+
   .main-program-cards {
     display: flex;
     flex-direction: row;
