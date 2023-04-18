@@ -158,8 +158,8 @@ h2 {
 .main-program-cards {
   display: flex;
     flex-direction: column;
-    justify-content: stretch;
-    align-items: stretch;
+    justify-content: center;
+    align-content: center;
 }
 
 .main-program article {

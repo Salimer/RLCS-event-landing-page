@@ -155,12 +155,7 @@ h2 {
   background-color: black;
 }
 
-.main-program-cards {
-  display: flex;
-    flex-direction: column;
-    justify-content: stretch;
-    align-items: stretch;
-}
+.main-p
 
 .main-program article {
   background-color: #272a31;
@@ -285,6 +280,7 @@ h2 {
 
   /* Main program  */
   .main-program-cards {
+    display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;

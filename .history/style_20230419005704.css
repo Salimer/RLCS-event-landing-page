@@ -157,9 +157,10 @@ h2 {
 
 .main-program-cards {
   display: flex;
-    flex-direction: column;
-    justify-content: stretch;
-    align-items: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
 }
 
 .main-program article {
@@ -285,6 +286,7 @@ h2 {
 
   /* Main program  */
   .main-program-cards {
+    display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
