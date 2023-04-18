@@ -28,9 +28,8 @@ header {
 
 header > div {
   display: flex;
-  justify-content: end;
-  gap: 10px;
-  background-color: #272a31;
+  flex-direction: ;
+  background-color: black;
 }
 
 header img {
