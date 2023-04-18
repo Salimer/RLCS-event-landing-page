@@ -156,9 +156,7 @@ h2 span {
     padding: 3rem 5rem;
 }
 
-.past-events a + a {
-    margin-top: 3rem;
-}
+.past-events a + a{}
 
 .event-holder {
     background: linear-gradient(rgba(236, 82, 66, 0.5), rgba(236, 82, 66, 0.5)), url('Assets/images/2022.jpg');
@@ -236,11 +234,5 @@ footer img {
 
     .featured .card {
         max-width: 48%;
-    }
-
-    /* About page ============================================ */
-    .past-events a + a {
-        margin-top: 0;
-        margin-left: 3rem;
     }
   }
