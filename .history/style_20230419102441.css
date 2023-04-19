@@ -152,7 +152,7 @@ h2 {
 
 /* Main program  */
 .main-program {
-  background-color: #272a31;
+  background-color: 272a31;
 }
 
 .main-program-cards {
@@ -163,7 +163,7 @@ h2 {
 }
 
 .main-program article {
-  background-color: rgba(255, 255, 255, 0.13);
+  background-color: #272a31;
   max-width: 30rem;
 }
 
