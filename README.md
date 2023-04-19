@@ -27,6 +27,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🤯 Walk through video ](#walk-through)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -45,7 +46,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio] <a name="about-project"></a>
+# 📖 [RLCS event webpage] <a name="about-project"></a>
 
 
 **RLCS event webpage** is a project to market, sell tickets and more about a hypotetical event of Rocket League. This project is adaptable for other topics, [check out this loom recording.](https://www.loom.com/share/0d02cb2c31d24d74adf57b188ad122bd)
@@ -76,6 +77,15 @@
 - **Fast access to social media and other ways of contact**
 - **Easy to the eyes and cultivating at the same time**
 - **Dynamic creation of content** 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🤯 Walk through video <a name="walk-through"></a>
+
+
+- [here](https://www.loom.com/share/0d02cb2c31d24d74adf57b188ad122bd)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
