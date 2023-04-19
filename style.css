@@ -165,9 +165,9 @@ h2 {
 
 .main-program-cards {
   display: flex;
-    flex-direction: column;
-    justify-content: stretch;
-    align-items: stretch;
+  flex-direction: column;
+  justify-content: stretch;
+  align-items: stretch;
 }
 
 .main-program article {
