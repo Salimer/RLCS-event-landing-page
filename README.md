@@ -86,7 +86,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://salimer.github.io/HTML-CSS-JavaScript-capstone-project/about.html)
+- [Live Demo Link](https://salimer.github.io/RLCS-event-template/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,7 +113,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Salimer/HTML-CSS-JavaScript-capstone-project.git
+  git clone https://github.com/Salimer/RLCS-event-template.git
   cd Portfolio
 ```
 
@@ -121,7 +121,7 @@ using Ubuntu:
 
 ```sh
   cd my-desired-folder
-  git clone https://github.com/Salimer/HTML-CSS-JavaScript-capstone-project.git
+  git clone https://github.com/Salimer/RLCS-event-template.git
 ```
 
 For more information on how to clone or fork a repository:
@@ -139,7 +139,7 @@ To run the project, open with **index.html** with any web browser.
 For example, for Google Chrome with Ubuntu:
 
 ```sh
-  cd HTML-CSS-JavaScript-capstone-project
+  cd RLCS-event-template
   google-chrome index.html
 ```
 
