@@ -7,6 +7,9 @@
   <h1><b>Welcome to my project 😃</b></h1>
 
 </div>
+![image](https://user-images.githubusercontent.com/52242629/233060059-3828a89f-67a7-4bbc-977f-6645dce75699.png)
+
+# Rocket League Championship Series 22-23 event
 
 <!-- TABLE OF CONTENTS -->
 
