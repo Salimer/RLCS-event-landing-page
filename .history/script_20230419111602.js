@@ -49,8 +49,7 @@ featuredTeams.forEach((team) => {
     // create description element 
     const teamDescription = document.createElement('p');
     teamDescription.className = "card-text";
-    teamDescription.innerHTML = team.description;
-    teamDetails.appendChild(teamDescription);
+    
 })
 
 document.querySelector('.featured-cards').appendChild(container);

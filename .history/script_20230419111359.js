@@ -42,15 +42,6 @@ featuredTeams.forEach((team) => {
     teamDetails.appendChild(teamRegion);
 
     // create underline element
-    const underline = document.createElement('div');
-    underline.className = "underline my-1"
-    teamDetails.appendChild(underline);
-
-    // create description element 
-    const teamDescription = document.createElement('p');
-    teamDescription.className = "card-text";
-    teamDescription.innerHTML = team.description;
-    teamDetails.appendChild(teamDescription);
 })
 
 document.querySelector('.featured-cards').appendChild(container);
