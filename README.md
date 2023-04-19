@@ -27,46 +27,39 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🤯 Project walkthrough](#walk-through)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  <!-- 
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-    -->
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My portfolio] <a name="about-project"></a>
+# 📖 [Portfolio] <a name="about-project"></a>
 
 
-**[My portfolio]** is a website project where I show my different projects, educational background and hobbies
+**RLCS event webpage** is a project to market, sell tickets and more about a hypotetical event of Rocket League. This project is adaptable for other topics, [check out this loom recording.](https://www.loom.com/share/20c1077651a044c081ce4eb772794751)
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>HTML</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="#">HTML 5</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>CSS</summary>
-  <ul>
-    <li><a href="#">CSS 3</a></li>
+    <li><a href="https://www.w3.org/TR/2011/WD-html5-20110405/">HTML5</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/specs.en.html">CSS</a></li>
+    <li><a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">JavaScript</a></li>
   </ul>
 </details>
 
@@ -77,17 +70,14 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[Gitflow]**
-- **[Linters]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🤯 PROJECT WALKTHROUGH <a name="walk-through"></a>
-
-
-- [Walk through video](https://www.loom.com/share/20c1077651a044c081ce4eb772794751)
+- **Lading Page for activities**
+- **Mobile first development**
+- **Responsiveness and flexibility for any screen size**
+- **Fast access to social media and other ways of contact**
+- **Easy to the eyes and cultivating at the same time**
+- **Capability to Play and Plug with DB**
+- **Slider**
+- **Dinamic creation of content** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +86,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://salimer.github.io/Portfolio/)
+- [Live Demo Link](https://salimer.github.io/HTML-CSS-JavaScript-capstone-project/about.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,10 +102,7 @@ To get a local copy up and running, follow these steps:
 
 ### Prerequisites
 
-In order to run this project you need:
-- A desktop, laptop or mac with internet connection
-- A text editor (i.e. Visual Studio)
-- GitHub account 
+In order to run this project you need: To clone or fork and run it in a browser
 
 
 ### Setup
@@ -126,15 +113,49 @@ Example commands:
 
 ```sh
   cd my-folder
-
-  git clone https://github.com/Salimer/Portfolio.git
-  
+  git clone https://github.com/Salimer/HTML-CSS-JavaScript-capstone-project.git
   cd Portfolio
 ```
 
+using Ubuntu:
 
+```sh
+  cd my-desired-folder
+  git clone https://github.com/Salimer/HTML-CSS-JavaScript-capstone-project.git
+```
 
+For more information on how to clone or fork a repository:
+- <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">How to clone a repo</a>
+- <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">How to fork a repo</a>
 
+### Install
+
+There is no installation required.
+
+### Usage
+
+To run the project, open with **index.html** with any web browser.
+
+For example, for Google Chrome with Ubuntu:
+
+```sh
+  cd HTML-CSS-JavaScript-capstone-project
+  google-chrome index.html
+```
+
+### Run tests
+
+There are no test available for this project.
+
+### Deployment
+
+To deploy this project, use any web hosting service.
+
+This project is deployed using [GitHub Pages](https://pages.github.com/). 
+
+Go to [🚀 Live Demo](#live-demo) to check it out.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -152,7 +173,6 @@ Example commands:
 - LinkedIn: [Salim Bamahfoodh](https://www.linkedin.com/in/salim-bamahfoodh-707b74200/)
 - Youtube: [Salim Bamahfoodh](https://www.youtube.com/channel/UCGKq9eJQY2qTKRfDDbMOUyA)
 - Facebook: [Salim Bamahfoodh](https://www.facebook.com/S.Bamahfoodh/)
-- Email: s.bamahfoodh@gmail.com
 
 
 <!-- FUTURE FEATURES -->
@@ -161,9 +181,9 @@ Example commands:
 
 
 
-- [Adding differnet screen sizes] **[new_feature_1]**
-- [Adding new visuals ] **[new_feature_2]**
-- [Adding more sections ] **[new_feature_3]**
+Future changes:
+- improve slider responsiveness
+- Add more webpages such as Tickets Page and Schedule Page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -191,7 +211,9 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank all Microverse community.
+- Templete used in project provided by (Microverse).
+- Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
+- A special thanks to my dear friend [Rakman Anaam](https://ig.me/m/rakmananaam) for the preview design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
