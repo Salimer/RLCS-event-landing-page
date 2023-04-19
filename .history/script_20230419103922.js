@@ -7,5 +7,3 @@ const featuredTeams = [
     }
 ];
 
-
-
