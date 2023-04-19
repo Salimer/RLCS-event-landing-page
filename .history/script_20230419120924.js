@@ -30,7 +30,7 @@ const featuredTeams = [
         description: "G2 Esports is a North American team with a long history of success in competitive Rocket League. The team consists of players JKnaps, Rizzo, and Chicago."
     },
     {
-        image: "Assets/teams/envy.jpg",
+        image: "Assets/teams/nrg.jpg",
         name: "Team Envy",
         region: "(North America)",
         description: "Team Envy is a North American team that has had success in both RLCS and other Rocket League tournaments. The team features players such as Atomic, Mist, and Turinturo."
