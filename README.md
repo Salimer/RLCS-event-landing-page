@@ -8,6 +8,17 @@
 
 </div>
 
+
+<div align="center">
+  <img width="923" alt="Screenshot 2023-04-19 at 14 28 05" src="https://user-images.githubusercontent.com/52242629/233061307-554e3548-80de-4f58-8b55-7eab0b6bf1ef.png">
+  <br/>
+<h1 align="center">Rocket League Championship Series 22-23 event</h1>
+</div>
+
+
+
+
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
