@@ -7,7 +7,9 @@
   <h1><b>Welcome to my project 😃</b></h1>
 
 </div>
-![image](https://user-images.githubusercontent.com/52242629/233060059-3828a89f-67a7-4bbc-977f-6645dce75699.png)
+
+<img width="923" alt="Screenshot 2023-04-19 at 14 25 36" src="https://user-images.githubusercontent.com/52242629/233060727-bf48d514-e57d-4b13-b837-d0bb729a7c9e.png">
+
 
 # Rocket League Championship Series 22-23 event
 
