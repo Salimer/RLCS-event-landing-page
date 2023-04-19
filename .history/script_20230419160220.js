@@ -12,7 +12,13 @@ const featuredTeams = [
     description: 'Team Vitality is a dominant European team with a consistent track record of success. The team features players such as Fairy Peak!, Alpha54, and Kaydop.',
   },
   {
-    image: 'Assets/teams/spacestation.png',
+    image: 'Assets/teams/spacestation.jpg',
+    name: 'Spacestation Gaming',
+    region: '(North America)',
+    description: 'Spacestation Gaming is a North American team that has been consistently performing well in recent seasons of RLCS. The team is composed of players Sypical, Arsenal, and retals.',
+  },
+  {
+    image: 'Assets/teams/nrg.jpg',
     name: 'Spacestation Gaming',
     region: '(North America)',
     description: 'Spacestation Gaming is a North American team that has been consistently performing well in recent seasons of RLCS. The team is composed of players Sypical, Arsenal, and retals.',
