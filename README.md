@@ -70,14 +70,12 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **Lading Page for activities**
+- **Landing Page for activities**
 - **Mobile first development**
 - **Responsiveness and flexibility for any screen size**
 - **Fast access to social media and other ways of contact**
 - **Easy to the eyes and cultivating at the same time**
-- **Capability to Play and Plug with DB**
-- **Slider**
-- **Dinamic creation of content** 
+- **Dynamic creation of content** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
