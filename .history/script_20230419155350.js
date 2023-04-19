@@ -1,6 +1,6 @@
 const featuredTeams = [
   {
-    image: 'Assets/teams/spacestation.jpg',
+    image: 'Assets/teams/nrg.jpg',
     name: 'NRG Esports',
     region: '(North America)',
     description: 'NRG Esports is a top-performing North American team that has won several major Rocket League tournaments. The team consists of players GarrettG, jstn, and SquishyMuffinz.',
@@ -17,12 +17,7 @@ const featuredTeams = [
     region: '(North America)',
     description: 'Spacestation Gaming is a North American team that has been consistently performing well in recent seasons of RLCS. The team is composed of players Sypical, Arsenal, and retals.',
   },
-  {
-    image: 'Assets/teams/nrg.jpg',
-    name: 'Spacestation Gaming',
-    region: '(North America)',
-    description: 'Spacestation Gaming is a North American team that has been consistently performing well in recent seasons of RLCS. The team is composed of players Sypical, Arsenal, and retals.',
-  },
+  
   {
     image: 'Assets/teams/bds.jpg',
     name: 'BDS Esport',
