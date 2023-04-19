@@ -48,7 +48,7 @@
 # 📖 [Portfolio] <a name="about-project"></a>
 
 
-**RLCS event webpage** is a project to market, sell tickets and more about a hypotetical event of Rocket League. This project is adaptable for other topics, [check out this loom recording.](https://www.loom.com/share/20c1077651a044c081ce4eb772794751)
+**RLCS event webpage** is a project to market, sell tickets and more about a hypotetical event of Rocket League. This project is adaptable for other topics, [check out this loom recording.](https://www.loom.com/share/0d02cb2c31d24d74adf57b188ad122bd)
 
 ## 🛠 Built With <a name="built-with"></a>
 
