@@ -1,0 +1,6 @@
+const featuredTeams = [
+    {
+        teamName: "",
+        
+    }
+]

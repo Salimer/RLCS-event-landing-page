@@ -1,0 +1,551 @@
+@font-face {
+  font-family: 'CocoGoose';
+  src: url('Assets/fonts/CocoGoose/Cocogoose\ Pro-trial.ttf') format('truetype');
+  font-family: 'CocoGooseNum';
+  src: url('Assets/fonts/CocoGoose/Cocogoose\ Pro\ Italic-trial.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'lato', sans-serif;
+}
+
+/* Header  */
+header {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+header > div {
+  display: none;
+  justify-content: end;
+  align-items: center;
+  gap: 10px;
+  background-color: #272a31;
+  padding-right: 7rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+header > div a {
+  font-family: 'lato', sans-serif;
+  font-size: 10px;
+  color: #d3d3d3;
+}
+
+.nav-link {
+  border: 4px solid transparent;
+}
+
+#RLCS {
+  color: #ec5242;
+  border: 4px solid #ec5242;
+  display: none;
+}
+
+.navbar-nav {
+  margin-right: 5.7rem;
+  gap: 14px;
+}
+
+.navbar-brand {
+  margin-left: 5.4rem;
+  display: none;
+}
+
+.desktop-hide {
+  padding: 0.5rem 0;
+}
+
+.desktop-hide a {
+  color: #000000a6;
+}
+
+.hide {
+  display: none !important;
+}
+
+/* ================================================ */
+
+/* Footer  */
+footer img {
+  height: 2.5rem;
+}
+
+/* ================================================ */
+
+header > div img {
+  height: 15px;
+  filter: invert(100%);
+}
+
+header nav img {
+  height: 35px;
+}
+
+#top-logo {
+  filter: invert(100%);
+}
+
+#mobile-menu-logo {
+  filter: invert(100%);
+  height: 5rem;
+}
+
+/* ===================================================== */
+
+/* Partner  */
+.partner img {
+  height: 4rem;
+  width: 7rem;
+}
+
+/* ===================================================== */
+
+#home {
+  color: #ec5242;
+}
+
+#hamburger {
+  border: 2px solid #ec5242;
+}
+
+/* backgrounds  */
+#home-bg {
+  background-image: url('Assets/images/header.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#about-bg {
+  background-image: url('Assets/images/header.png');
+  background-repeat: no-repeat;
+  background-size: center center;
+  background-attachment: fixed;
+}
+
+/* Headline  */
+.headline {
+  height: 90vh;
+}
+
+.headline-text p {
+  background-color: #f9f9f9;
+}
+
+/* ================================================ */
+
+/* Headline  */
+h2 span {
+  font-family: 'CocoGoose', sans-serif;
+}
+
+/* Main program  */
+.main-program span {
+  min-width: 4.4rem;
+  color: #ec5242;
+}
+
+/* Featured  */
+.team span {
+  color: #ec5242;
+}
+
+/* ================================================ */
+
+.headline h1 span {
+  font-family: 'CocoGooseNum', sans-serif;
+}
+
+p {
+  font-size: 0.8em;
+}
+
+h1 {
+  font-family: 'CocoGoose', sans-serif;
+  font-weight: bold;
+  color: #ec5242;
+}
+
+h2 {
+  font-family: 'CocoGooseNum', sans-serif;
+  color: #272a31;
+  font-size: 1.2rem;
+}
+
+#location {
+  font-size: 0.7rem;
+}
+
+/* Main program  */
+
+.main-program h3 {
+  color: rgba(222, 226, 230, 0.9);
+}
+
+.main-program {
+  background-color: #272a31;
+}
+
+.main-program-cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  align-items: stretch;
+}
+
+.main-program article {
+  background-color: rgba(255, 255, 255, 0.13);
+  max-width: 30rem;
+}
+
+.main-program img {
+  width: 11%;
+  filter: invert(100%);
+}
+
+.main-program button {
+  background-color: #ec5242;
+}
+
+#whole-program {
+  display: none;
+  text-decoration: underline;
+  color: rgba(222, 226, 230, 0.9);
+}
+
+/* Featured  */
+.featured {
+  background-color: #f8f8f8;
+}
+
+.featured article {
+  background-color: transparent;
+}
+
+.underline {
+  height: 1rem;
+  width: 30%;
+  max-width: 3rem;
+  border-bottom: 1px solid #ec5242;
+}
+
+.featured .card {
+  border: 0;
+  max-width: 40rem;
+}
+
+.featured .card-title {
+  margin-top: 17px;
+}
+
+.featured-image-holder {
+  width: 38%;
+  height: 6rem;
+  background-image: url("Assets/images/transparent.jpg");
+  background-size: 50% 50%;
+
+  /* background-size: cover; */
+  background-repeat: no-repeat;
+}
+
+.featured-image-holder img {
+  width: 87%;
+  height: 87%;
+}
+
+.team {
+  width: 100%;
+}
+
+.team .underline {
+  height: 0;
+  width: 10%;
+  border-bottom: 1px solid #d3d3d3;
+}
+
+.see-more {
+  border: 1px solid #ddd;
+  width: 90%;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.see-more h5 {
+  color: #525259;
+}
+
+.see-more span {
+  color: #ec5242;
+}
+
+/* Partner  */
+#partner-home {
+  display: none !important;
+}
+
+#partner-about {
+  display: flex !important;
+}
+
+/* About page ============================================ */
+
+/* Headline  */
+#contact {
+  color: gray;
+  background-color: transparent;
+  font-size: 0.7rem;
+}
+
+#location a {
+  text-decoration: underline;
+  color: #272a31;
+}
+
+/* Logo story  */
+.logo-story-image-holder {
+  padding: 1rem;
+}
+
+/* Past events  */
+
+.past-events a {
+  text-decoration: none;
+  padding: 3rem 5rem;
+}
+
+.past-events a + a {
+  margin-top: 3rem;
+}
+
+.event-holder {
+  background: linear-gradient(rgba(236, 82, 66, 0.5), rgba(236, 82, 66, 0.5)), url('Assets/images/2022.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.event-holder-2 {
+  background: linear-gradient(rgba(236, 82, 66, 0.5), rgba(236, 82, 66, 0.5)), url('Assets/images/2020.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+/* Partner  */
+.partner {
+  background-color: #272a31;
+}
+
+.partner-imgs {
+  filter: grayscale(100);
+}
+
+/* Footer  */
+footer {
+  padding: 4rem 0;
+}
+
+footer p,
+footer img {
+  font-size: 15px;
+  color: #f8f8f8;
+  height: 3rem;
+}
+
+#footer-home {
+  display: none !important;
+}
+
+#footer-about p,
+#footer-about img {
+  filter: invert(100);
+}
+
+
+/* desktop version ============================================ */
+@media screen and (min-width: 768px) {
+  /* backgrounds  */
+  #home-bg {
+    background-image: url('Assets/images/header.png');
+    background-size: 100% 100%;
+  }
+
+  #about-bg {
+    background-image: url('Assets/images/header.png');
+    background-size: 100% 100%;
+  }
+
+  /* Header  */
+  header > div {
+    display: flex;
+  }
+
+  .desktop-hide {
+    display: none;
+  }
+
+  .navbar-brand {
+    margin-left: 5.4rem;
+    display: block;
+  }
+
+  #RLCS {
+    display: block;
+  }
+
+  .navbar-nav a {
+    font-size: 10px;
+  }
+
+  /* Headline  */
+  .headline {
+    height: 90vh;
+  }
+
+  .headline h1 {
+    font-size: 2rem;
+  }
+
+  .headline-text {
+    width: 70%;
+    margin-left: 5.4rem;
+  }
+
+  .headline-text p {
+    max-width: 60%;
+  }
+
+  /* Main program  */
+  .main-program-cards {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .main-program-cards article {
+    max-width: 10rem;
+  }
+
+  .main-program-cards article + article {
+    margin-left: 0.5rem;
+  }
+
+  .main-program img {
+    min-width: 30%;
+  }
+
+  /* ================================================ */
+
+  /* Logo story  */
+  .logo-story p {
+    max-width: 50%;
+  }
+
+  /* ================================================ */
+
+  .main-program-cards article p {
+    max-width: 8rem;
+  }
+
+  #main-program-button {
+    display: none;
+  }
+
+  #whole-program {
+    display: block;
+  }
+
+  /* Featured  */
+  .featured-cards {
+    flex-wrap: wrap;
+  }
+
+  .featured .card {
+    max-width: 48%;
+  }
+
+  .featured-image-holder {
+    width: 38%;
+    max-width: unset;
+    height: unset;
+    background-image: url("Assets/images/transparent.jpg");
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+  }
+
+  /* About page ============================================ */
+
+  /* headline  */
+  .headline-text-about {
+    margin-left: 0;
+  }
+
+  .headline-text-about p {
+    max-width: 80%;
+  }
+
+  /* Logo story  */
+  .logo-story-image-holder {
+    padding: 4rem;
+  }
+
+  /* Past events  */
+  .past-events a + a {
+    margin-top: 0;
+    margin-left: 3rem;
+  }
+
+  /* Partner  */
+  #partner-home {
+    display: flex !important;
+  }
+
+  #partner-about {
+    display: none !important;
+  }
+
+  .partner img {
+    height: 8rem;
+    width: 11rem;
+  }
+
+
+  #footer-about {
+    background-color: #272a31;
+  }
+
+  #footer-about p,
+  #footer-about img {
+    color: #f8f8f8;
+    filter: invert(0);
+  }
+
+  #footer-home {
+    display: flex !important;
+    background-color: #f8f8f8;
+  }
+
+  #footer-home p,
+  #footer-home img {
+    color: #f8f8f8;
+    filter: invert(100);
+  }
+
+  footer p,
+  footer img {
+    font-size: 20px;
+    height: 4rem;
+  }
+}
