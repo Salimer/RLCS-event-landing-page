@@ -77,14 +77,6 @@ header > div a {
 }
 
 /* ================================================ */
-header nav img {
-  height: 35px;
-}
-
-header > div img {
-  height: 15px;
-  filter: invert(100%);
-}
 
 /* Footer  */
 .footer img {
@@ -92,6 +84,12 @@ header > div img {
 }
 
 /* ================================================ */
+
+header > div img {
+  height: 15px;
+  filter: invert(100%);
+}
+
 
 #top-logo {
   filter: invert(100%);

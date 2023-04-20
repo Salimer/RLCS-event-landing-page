@@ -77,14 +77,6 @@ header > div a {
 }
 
 /* ================================================ */
-header nav img {
-  height: 35px;
-}
-
-header > div img {
-  height: 15px;
-  filter: invert(100%);
-}
 
 /* Footer  */
 .footer img {
@@ -92,6 +84,15 @@ header > div img {
 }
 
 /* ================================================ */
+
+header > div img {
+  height: 15px;
+  filter: invert(100%);
+}
+
+header nav img {
+  height: 35px;
+}
 
 #top-logo {
   filter: invert(100%);
@@ -167,9 +168,7 @@ h2 span {
 }
 
 /* ================================================ */
-.see-more span {
-  color: #ec5242;
-}
+
 
 .headline h1 span {
   font-family: 'CocoGooseNum', sans-serif;

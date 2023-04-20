@@ -77,14 +77,6 @@ header > div a {
 }
 
 /* ================================================ */
-header nav img {
-  height: 35px;
-}
-
-header > div img {
-  height: 15px;
-  filter: invert(100%);
-}
 
 /* Footer  */
 .footer img {
@@ -92,6 +84,15 @@ header > div img {
 }
 
 /* ================================================ */
+
+header > div img {
+  height: 15px;
+  filter: invert(100%);
+}
+
+header nav img {
+  height: 35px;
+}
 
 #top-logo {
   filter: invert(100%);
@@ -167,9 +168,6 @@ h2 span {
 }
 
 /* ================================================ */
-.see-more span {
-  color: #ec5242;
-}
 
 .headline h1 span {
   font-family: 'CocoGooseNum', sans-serif;
@@ -289,6 +287,9 @@ h2 {
   color: #525259;
 }
 
+.see-more span {
+  color: #ec5242;
+}
 
 /* Partner  */
 #partner-home {
@@ -308,15 +309,6 @@ h2 {
   font-size: 0.7rem;
 }
 
-.past-events a {
-  text-decoration: none;
-  padding: 3rem 5rem;
-}
-
-.past-events a + a {
-  margin-top: 3rem;
-}
-
 #location a {
   text-decoration: underline;
   color: #272a31;
@@ -328,6 +320,15 @@ h2 {
 }
 
 /* Past events  */
+
+.past-events a {
+  text-decoration: none;
+  padding: 3rem 5rem;
+}
+
+.past-events a + a {
+  margin-top: 3rem;
+}
 
 .event-holder {
   background: linear-gradient(rgba(236, 82, 66, 0.5), rgba(236, 82, 66, 0.5)), url('Assets/images/2022.jpg');
@@ -459,11 +460,6 @@ h2 {
     font-size: 20px;
     height: 4rem;
   }
-
-  .headline-text-about p {
-    max-width: 80%;
-  }
-
   .main-program-cards article p {
     max-width: 8rem;
   }
@@ -501,7 +497,9 @@ h2 {
     margin-left: 0;
   }
 
-
+  .headline-text-about p {
+    max-width: 80%;
+  }
 
   /* Logo story  */
   .logo-story-image-holder {
@@ -527,6 +525,8 @@ h2 {
     height: 8rem;
     width: 11rem;
   }
+
+  
 
   #footer-about {
     background-color: #272a31;
