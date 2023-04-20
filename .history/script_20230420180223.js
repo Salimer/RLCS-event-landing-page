@@ -1,4 +1,3 @@
-// define object items
 const featuredTeams = [
   {
     image: 'Assets/teams/nrg.png',
@@ -38,17 +37,20 @@ const featuredTeams = [
   },
 ];
 
-// Define featured cards and see more button
-const featuredCards = document.querySelector('.featured-cards');
-const button = document.querySelector('.see-more');
+function displayFeaturedTeams () {
+  
+  const featuredCards = document.querySelector('.featured-cards')
+  if ((window).matchMedia("(min-width: 767.98px)").matches) {
+    
+  }
+}
+
 
 // Get the media query
 const mediaQuery = window.matchMedia('(min-width: 768px)');
 
 // Check if the media query matches
 if (mediaQuery.matches) {
-  // add hide class to the see-more button
-  button.classList.add('hide');
   // Execute the forEach loop for all items
   featuredTeams.forEach((team) => {
     // create article element
@@ -148,9 +150,8 @@ if (mediaQuery.matches) {
   });
 
   // Wait for a click event on a button to execute the rest
+  const button = document.querySelector('#load-more');
   button.addEventListener('click', () => {
-    // hide the see more button
-    button.classList.add('hide');
     featuredTeams.slice(2).forEach((team) => {
       // create article element
       const container = document.createElement('article');

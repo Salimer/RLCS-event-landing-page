@@ -149,8 +149,7 @@ if (mediaQuery.matches) {
 
   // Wait for a click event on a button to execute the rest
   button.addEventListener('click', () => {
-    // hide the see more button
-    button.classList.add('hide');
+    
     featuredTeams.slice(2).forEach((team) => {
       // create article element
       const container = document.createElement('article');

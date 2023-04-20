@@ -48,7 +48,7 @@ const mediaQuery = window.matchMedia('(min-width: 768px)');
 // Check if the media query matches
 if (mediaQuery.matches) {
   // add hide class to the see-more button
-  button.classList.add('hide');
+
   // Execute the forEach loop for all items
   featuredTeams.forEach((team) => {
     // create article element
@@ -149,8 +149,6 @@ if (mediaQuery.matches) {
 
   // Wait for a click event on a button to execute the rest
   button.addEventListener('click', () => {
-    // hide the see more button
-    button.classList.add('hide');
     featuredTeams.slice(2).forEach((team) => {
       // create article element
       const container = document.createElement('article');
