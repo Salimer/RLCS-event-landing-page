@@ -339,7 +339,9 @@ footer p, footer img {
 }
 
 #footer-about p, #footer-about img {
+  
   filter: invert(100);
+  
 }
 
 
@@ -491,7 +493,7 @@ footer p, footer img {
   }
   #footer-about p, #footer-about img {
     color: #f8f8f8;
-    filter: invert(0);
+    filter: invert(100);
   }
 
   #footer-home {
@@ -504,8 +506,11 @@ footer p, footer img {
     filter: invert(100);
   }
 
-  footer p, footer img {
+  footer p {
     font-size: 20px;
+  }
+
+  footer img {
     height: 4rem;
   }
 

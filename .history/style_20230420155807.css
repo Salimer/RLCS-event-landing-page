@@ -264,13 +264,7 @@ h2 {
 }
 
 /* Partner  */
-#partner-home {
-  display: none !important;
-}
-
-#partner-about {
-  display: flex !important;
-}
+#partner-
 
 /* About page ============================================ */
 
@@ -319,29 +313,6 @@ h2 {
 .partner {
   background-color: #272a31;
 }
-
-.partner-imgs {
-  filter: grayscale(100);
-}
-/* Footer  */
-footer {
-  padding: 4rem 0;
-}
-
-footer p, footer img {
-  font-size: 15px;
-  color: #f8f8f8;
-  height: 3rem;
-}
-
-#footer-home {
-  display: none !important;
-}
-
-#footer-about p, #footer-about img {
-  filter: invert(100);
-}
-
 
 /* desktop version ============================================ */
 @media screen and (min-width: 768px) {
@@ -472,41 +443,8 @@ footer p, footer img {
   }
 
   /* Partner  */
-  #partner-home {
-    display: flex !important;
-  }
-
-  #partner-about {
-    display: none !important;
-  }
-
   .partner img {
     height: 8rem;
     width: 11rem;
   }
-  
-
-  #footer-about {
-    background-color: #272a31; 
-  }
-  #footer-about p, #footer-about img {
-    color: #f8f8f8;
-    filter: invert(0);
-  }
-
-  #footer-home {
-    display: flex !important;
-    background-color: #f8f8f8;
-  }
-
-  #footer-home p, #footer-home img {
-    color: #f8f8f8;
-    filter: invert(100);
-  }
-
-  footer p, footer img {
-    font-size: 20px;
-    height: 4rem;
-  }
-
 }
