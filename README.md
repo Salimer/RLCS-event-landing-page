@@ -10,7 +10,6 @@
 
 
 <div align="center">
-  <img width="923" alt="Screenshot 2023-04-19 at 14 28 05" src="https://user-images.githubusercontent.com/52242629/233061307-554e3548-80de-4f58-8b55-7eab0b6bf1ef.png">
   <br/>
 <h1 align="center">Rocket League Championship Series 22-23 event webpage</h1>
 </div>
@@ -221,7 +220,6 @@ Give a ⭐️ if you like this project!
 
 - Templete used in project provided by (Microverse).
 - Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
-- A special thanks to my dear friend [Rakman Anaam](https://ig.me/m/rakmananaam) for the preview design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
