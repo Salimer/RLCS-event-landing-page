@@ -45,22 +45,12 @@ header > div a {
   color: #d3d3d3;
 }
 
-.nav-link {
-  border: 4px solid transparent;
-}
-
-#RLCS {
-  color: #ec5242;
-  border: 4px solid #ec5242;
-}
-
 .navbar-nav {
-  margin-right: 5.7rem;
-  gap: 14px;
+  margin-right: 5.4rem;
 }
 
 .navbar-brand {
-  margin-left: 5.4rem;
+  margin-left:
 }
 
 .desktop-hide {
