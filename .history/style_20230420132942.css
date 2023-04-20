@@ -306,13 +306,11 @@ h2 {
     display: block;
   }
 
-  #RLCS {
-    display: block;
-  }
+  #RLCS
 
   /* Headline  */
   .headline {
-    height: 80vh;
+    height: 70vh;
   }
 
   .headline h1 {

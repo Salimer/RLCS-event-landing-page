@@ -52,7 +52,6 @@ header > div a {
 #RLCS {
   color: #ec5242;
   border: 4px solid #ec5242;
-  display: none;
 }
 
 .navbar-nav {
@@ -62,7 +61,6 @@ header > div a {
 
 .navbar-brand {
   margin-left: 5.4rem;
-  display: none;
 }
 
 .desktop-hide {
@@ -111,9 +109,9 @@ header nav img {
 
 /* backgrounds  */
 #home-bg {
-  background-image: url('Assets/images/header.png');
+  background-image: url('Assets/images/hometopbgsmall.jpg');
   background-repeat: no-repeat;
-  background-size: center center;
+  background-size: contain;
   background-attachment: fixed;
 }
 
@@ -126,11 +124,10 @@ header nav img {
 
 /* Headline  */
 .headline {
-  height: 80vh;
+  height: 87vh;
 }
 
-.headline-text p {
-  background-color: #f9f9f9;
+.headline-text {
  }
 
 /* ================================================ */
@@ -169,7 +166,7 @@ h1 {
 
 h2 {
   font-family: 'CocoGooseNum', sans-serif;
-  color: #272a31;
+  color: #ec5242;
   font-size: 1.2rem;
 }
 
@@ -301,18 +298,9 @@ h2 {
     display: none;
   }
 
-  .navbar-brand {
-    margin-left: 5.4rem;
-    display: block;
-  }
-
-  #RLCS {
-    display: block;
-  }
-
   /* Headline  */
   .headline {
-    height: 80vh;
+    height: 70vh;
   }
 
   .headline h1 {
@@ -321,11 +309,6 @@ h2 {
 
   .headline-text {
     width: 70%;
-    margin-left: 5.4rem;
-  }
-
-  .headline-text p {
-    max-width: 60%;
   }
 
   /* Main program  */

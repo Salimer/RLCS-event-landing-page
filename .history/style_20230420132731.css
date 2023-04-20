@@ -52,7 +52,6 @@ header > div a {
 #RLCS {
   color: #ec5242;
   border: 4px solid #ec5242;
-  display: none;
 }
 
 .navbar-nav {
@@ -306,13 +305,9 @@ h2 {
     display: block;
   }
 
-  #RLCS {
-    display: block;
-  }
-
   /* Headline  */
   .headline {
-    height: 80vh;
+    height: 70vh;
   }
 
   .headline h1 {

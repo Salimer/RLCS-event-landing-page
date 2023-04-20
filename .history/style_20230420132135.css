@@ -52,7 +52,6 @@ header > div a {
 #RLCS {
   color: #ec5242;
   border: 4px solid #ec5242;
-  display: none;
 }
 
 .navbar-nav {
@@ -62,7 +61,6 @@ header > div a {
 
 .navbar-brand {
   margin-left: 5.4rem;
-  display: none;
 }
 
 .desktop-hide {
@@ -113,7 +111,7 @@ header nav img {
 #home-bg {
   background-image: url('Assets/images/header.png');
   background-repeat: no-repeat;
-  background-size: center center;
+  background-size: cover;
   background-attachment: fixed;
 }
 
@@ -126,7 +124,7 @@ header nav img {
 
 /* Headline  */
 .headline {
-  height: 80vh;
+  height: 87vh;
 }
 
 .headline-text p {
@@ -301,18 +299,9 @@ h2 {
     display: none;
   }
 
-  .navbar-brand {
-    margin-left: 5.4rem;
-    display: block;
-  }
-
-  #RLCS {
-    display: block;
-  }
-
   /* Headline  */
   .headline {
-    height: 80vh;
+    height: 70vh;
   }
 
   .headline h1 {
