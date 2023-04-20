@@ -240,7 +240,8 @@ h2 {
 
 .featured-image-holder {
   width: 38%;
-  height: 6rem;
+  /* max-width: 5.38rem;
+  height: 6rem; */
   background-image: url("Assets/images/transparent.jpg");
   background-size: 50% 50%;
   /* background-size: cover; */
@@ -390,10 +391,11 @@ h2 {
 
   .featured-image-holder {
     width: 38%;
-    max-width: unset;
-    height: unset;
+    /* max-width: 5.38rem;
+    height: 6rem; */
     background-image: url("Assets/images/transparent.jpg");
     background-size: 50% 50%;
+    
     background-repeat: no-repeat;
   }
 

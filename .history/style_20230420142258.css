@@ -234,12 +234,9 @@ h2 {
   max-width: 40rem;
 }
 
-.featured .card-title {
-  margin-top: 17px;
-}
-
 .featured-image-holder {
   width: 38%;
+  max-width: 5.38rem;
   height: 6rem;
   background-image: url("Assets/images/transparent.jpg");
   background-size: 50% 50%;
@@ -249,7 +246,7 @@ h2 {
 
 .featured-image-holder img {
   width: 87%;
-  height: 87%;
+  height: 90%;
 }
 
 .team {
@@ -386,15 +383,6 @@ h2 {
 
   .featured .card {
     max-width: 48%;
-  }
-
-  .featured-image-holder {
-    width: 38%;
-    max-width: unset;
-    height: unset;
-    background-image: url("Assets/images/transparent.jpg");
-    background-size: 50% 50%;
-    background-repeat: no-repeat;
   }
 
   /* About page ============================================ */

@@ -240,6 +240,7 @@ h2 {
 
 .featured-image-holder {
   width: 38%;
+  max-width: 5.38rem;
   height: 6rem;
   background-image: url("Assets/images/transparent.jpg");
   background-size: 50% 50%;

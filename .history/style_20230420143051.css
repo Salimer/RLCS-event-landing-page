@@ -234,13 +234,12 @@ h2 {
   max-width: 40rem;
 }
 
-.featured .card-title {
-  margin-top: 17px;
-}
+.featured .
 
 .featured-image-holder {
   width: 38%;
-  height: 6rem;
+  /* max-width: 5.38rem;
+  height: 6rem; */
   background-image: url("Assets/images/transparent.jpg");
   background-size: 50% 50%;
   /* background-size: cover; */
@@ -386,15 +385,6 @@ h2 {
 
   .featured .card {
     max-width: 48%;
-  }
-
-  .featured-image-holder {
-    width: 38%;
-    max-width: unset;
-    height: unset;
-    background-image: url("Assets/images/transparent.jpg");
-    background-size: 50% 50%;
-    background-repeat: no-repeat;
   }
 
   /* About page ============================================ */

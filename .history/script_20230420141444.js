@@ -12,7 +12,7 @@ const featuredTeams = [
     description: 'Team Vitality is a dominant European team with a consistent track record of success. The team features players such as Fairy Peak!, Alpha54, and Kaydop.',
   },
   {
-    image: 'Assets/teams/spacestation.jpg',
+    image: 'Assets/teams/spacestation.png',
     name: 'Spacestation Gaming',
     region: '(North America)',
     description: 'Spacestation Gaming is a North American team that has been consistently performing well in recent seasons of RLCS. The team is composed of players Sypical, Arsenal, and retals.',
@@ -24,7 +24,7 @@ const featuredTeams = [
     description: "BDS Esport is a European team that has been a rising star in the competitive Rocket League scene. The team's roster includes players such as Monkey Moon, Extra, and Marc_By_8.",
   },
   {
-    image: 'Assets/teams/g2.png',
+    image: 'Assets/teams/g2.jpg',
     name: 'G2 Esports',
     region: '(North America)',
     description: 'G2 Esports is a North American team with a long history of success in competitive Rocket League. The team consists of players JKnaps, Rizzo, and Chicago.',
