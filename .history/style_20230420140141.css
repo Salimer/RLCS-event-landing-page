@@ -238,8 +238,8 @@ h2 {
   width: 38%;
   max-width: 5.38rem;
   height: 6rem;
-  background-image: url("Assets/images/transparent.jpg");
-  background-size: 50% 50%;
+  background-image: url("Assets/images/transparent.png");
+  /* background-size: 50% 50%; */
   /* background-size: cover; */
   background-repeat: no-repeat;
 }

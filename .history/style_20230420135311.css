@@ -215,11 +215,11 @@ h2 {
 
 /* Featured  */
 .featured {
-  background-color: #f8f8f8;
+  background-color: rgba(222, 226, 230, 0.9);
 }
 
 .featured article {
-  background-color: transparent;
+  background-color: none !important;
 }
 
 .underline {
@@ -238,9 +238,8 @@ h2 {
   width: 38%;
   max-width: 5.38rem;
   height: 6rem;
-  background-image: url("Assets/images/transparent.jpg");
+  background-image: url("Assets/images/ec5242.png");
   background-size: 50% 50%;
-  /* background-size: cover; */
   background-repeat: no-repeat;
 }
 
