@@ -34,14 +34,13 @@ header > div {
   padding-right: 7rem;
 }
 
-
 a {
   text-decoration: none;
 }
 
 header > div a {
   font-family: 'lato', sans-serif;
-  font-size: 10px;
+  font-size: 100px;
   color: #d3d3d3;
 }
 
@@ -95,15 +94,6 @@ header nav img {
   height: 35px;
 }
 
-#top-logo {
-  filter: invert(100%);
-}
-
-#mobile-menu-logo {
-  filter: invert(100%);
-  height: 5rem;
-}
-
 /* ===================================================== */
 
 /* Partner  */
@@ -139,7 +129,7 @@ header nav img {
 
 /* Headline  */
 .headline {
-  height: 90vh;
+  height: 80vh;
 }
 
 .headline-text p {
@@ -402,13 +392,9 @@ footer p, footer img {
     display: block;
   }
 
-  .navbar-nav a {
-    font-size: 10px;
-  }
-
   /* Headline  */
   .headline {
-    height: 90vh;
+    height: 80vh;
   }
 
   .headline h1 {

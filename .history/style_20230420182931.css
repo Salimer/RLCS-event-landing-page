@@ -34,6 +34,9 @@ header > div {
   padding-right: 7rem;
 }
 
+.navb a {
+  font-size: 100px;
+}
 
 a {
   text-decoration: none;
@@ -95,15 +98,6 @@ header nav img {
   height: 35px;
 }
 
-#top-logo {
-  filter: invert(100%);
-}
-
-#mobile-menu-logo {
-  filter: invert(100%);
-  height: 5rem;
-}
-
 /* ===================================================== */
 
 /* Partner  */
@@ -139,7 +133,7 @@ header nav img {
 
 /* Headline  */
 .headline {
-  height: 90vh;
+  height: 80vh;
 }
 
 .headline-text p {
@@ -402,13 +396,9 @@ footer p, footer img {
     display: block;
   }
 
-  .navbar-nav a {
-    font-size: 10px;
-  }
-
   /* Headline  */
   .headline {
-    height: 90vh;
+    height: 80vh;
   }
 
   .headline h1 {
