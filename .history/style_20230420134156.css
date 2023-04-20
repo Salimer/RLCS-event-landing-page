@@ -178,11 +178,6 @@ h2 {
 }
 
 /* Main program  */
-
-.main-program h3 {
-  color:rgba(222, 226, 230, 0.9);
-}
-
 .main-program {
   background-color: #272a31;
 }
@@ -210,7 +205,7 @@ h2 {
 
 #whole-program {
   text-decoration: underline;
-  color:rgba(222, 226, 230, 0.9);
+  color:rgba(222, 226, 230, 0.9)
 }
 
 /* Featured  */
