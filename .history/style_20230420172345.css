@@ -264,18 +264,7 @@ h2 {
 }
 
 .see-more {
-  border: 1px solid #dddddd;
-  width: 90%;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-.see-more h5 {
-  color: #525259;
-}
-
-.see-more span {
-  color: #ec5242;
+  border: 1px solid #f9f9f9;
 }
 
 /* Partner  */

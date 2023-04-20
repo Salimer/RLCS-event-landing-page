@@ -266,16 +266,11 @@ h2 {
 .see-more {
   border: 1px solid #dddddd;
   width: 90%;
-  border-radius: 4px;
-  cursor: pointer;
+  border
 }
 
 .see-more h5 {
-  color: #525259;
-}
-
-.see-more span {
-  color: #ec5242;
+  
 }
 
 /* Partner  */
