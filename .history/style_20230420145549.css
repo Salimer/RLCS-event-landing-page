@@ -118,9 +118,9 @@ header nav img {
 }
 
 #about-bg {
-  background-image: url('Assets/images/header.png');
+  background-image: url('Assets/images/unknownmobilesmall.jpg');
   background-repeat: no-repeat;
-  background-size: center center;
+  background-size: contain;
   background-attachment: fixed;
 }
 
@@ -267,13 +267,7 @@ h2 {
 /* Headline  */
 #contact {
   color: gray;
-  background-color: transparent;
   font-size: 0.7rem;
-}
-
-#location a {
-  text-decoration: underline;
-  color: #272a31;
 }
 
 /* Past events  */
@@ -409,9 +403,7 @@ h2 {
     margin-left: 0;
   }
 
-  .headline-text-about p {
-    max-width: 80%;
-  }
+  
   /* Past events  */
   .past-events a + a {
     margin-top: 0;

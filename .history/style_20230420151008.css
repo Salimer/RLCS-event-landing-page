@@ -118,9 +118,9 @@ header nav img {
 }
 
 #about-bg {
-  background-image: url('Assets/images/header.png');
+  background-image: url('Assets/images/unknownmobilesmall.jpg');
   background-repeat: no-repeat;
-  background-size: center center;
+  background-size: contain;
   background-attachment: fixed;
 }
 
@@ -273,7 +273,7 @@ h2 {
 
 #location a {
   text-decoration: underline;
-  color: #272a31;
+  color: 
 }
 
 /* Past events  */

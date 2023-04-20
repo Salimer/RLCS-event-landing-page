@@ -120,7 +120,7 @@ header nav img {
 #about-bg {
   background-image: url('Assets/images/header.png');
   background-repeat: no-repeat;
-  background-size: center center;
+  background-size: contain;
   background-attachment: fixed;
 }
 
