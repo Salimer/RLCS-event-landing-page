@@ -278,13 +278,11 @@ h2 {
 }
 
 /* Logo story  */
-.logo-story-image-holder {
-  padding: 1rem;
+.logo-story img {
+  /* padding: 1rem; */
 }
 
 /* Past events  */
-
-
 .past-events a {
   text-decoration: none;
   padding: 3rem 5rem;
@@ -393,13 +391,7 @@ h2 {
     max-width: 8rem;
   }
 
-  #main-program-button {
-    display: none;
-  }
-
-  #whole-program {
-    display: block;
-  }
+  
 
   /* Featured  */
   .featured-cards {
@@ -427,11 +419,6 @@ h2 {
 
   .headline-text-about p {
     max-width: 80%;
-  }
-
-  /* Logo story  */
-  .logo-story-image-holder {
-    padding: 4rem;
   }
   /* Past events  */
   .past-events a + a {

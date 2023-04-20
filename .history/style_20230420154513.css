@@ -214,6 +214,10 @@ h2 {
   color:rgba(222, 226, 230, 0.9);
 }
 
+#main-program-button {
+  
+}
+
 /* Featured  */
 .featured {
   background-color: #f8f8f8;
@@ -278,13 +282,11 @@ h2 {
 }
 
 /* Logo story  */
-.logo-story-image-holder {
-  padding: 1rem;
+.logo-story img {
+  /* padding: 1rem; */
 }
 
 /* Past events  */
-
-
 .past-events a {
   text-decoration: none;
   padding: 3rem 5rem;
@@ -393,14 +395,6 @@ h2 {
     max-width: 8rem;
   }
 
-  #main-program-button {
-    display: none;
-  }
-
-  #whole-program {
-    display: block;
-  }
-
   /* Featured  */
   .featured-cards {
     flex-wrap: wrap;
@@ -427,11 +421,6 @@ h2 {
 
   .headline-text-about p {
     max-width: 80%;
-  }
-
-  /* Logo story  */
-  .logo-story-image-holder {
-    padding: 4rem;
   }
   /* Past events  */
   .past-events a + a {
