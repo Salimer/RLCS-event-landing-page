@@ -84,7 +84,7 @@
 ## 🤯 Walk through video <a name="walk-through"></a>
 
 
-- [here](https://www.loom.com/share/0d02cb2c31d24d74adf57b188ad122bd)
+- [here](https://www.loom.com/share/30859eeefe9d40118a82014368ebd457)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
