@@ -370,6 +370,7 @@ h2 {
   filter: invert(100);
 }
 
+
 /* desktop version ============================================ */
 @media screen and (min-width: 768px) {
   /* backgrounds  */
@@ -498,6 +499,8 @@ h2 {
   .headline-text-about {
     margin-left: 0;
   }
+
+
 
   /* Logo story  */
   .logo-story-image-holder {
