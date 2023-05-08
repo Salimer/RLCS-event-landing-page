@@ -11,7 +11,7 @@
 
 <div align="center">
   <br/>
-<h1 align="center">Rocket League Championship Series 22-23 event webpage</h1>
+<h1 align="center">Rocket League Championship Series 22-23 event landing page</h1>
 </div>
 
 
@@ -45,7 +45,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [RLCS event webpage] <a name="about-project"></a>
+# 📖 [RLCS event landing page] <a name="about-project"></a>
 
 
 **RLCS event webpage** is a project to market, sell tickets and more about a hypotetical event of Rocket League. This project is adaptable for other topics, [check out this loom recording.](https://www.loom.com/share/0d02cb2c31d24d74adf57b188ad122bd)
