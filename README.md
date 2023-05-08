@@ -93,7 +93,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://salimer.github.io/Capstone-project-one/)
+- [Live Demo Link](https://salimer.github.io/RLCS-event-landing-page/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
