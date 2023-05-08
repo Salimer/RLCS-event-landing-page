@@ -179,7 +179,6 @@ Go to [🚀 Live Demo](#live-demo) to check it out.
 - GitHub: [@Salimer](https://github.com/Salimer)
 - LinkedIn: [Salim Bamahfoodh](https://www.linkedin.com/in/salim-bamahfoodh-707b74200/)
 - Youtube: [Salim Bamahfoodh](https://www.youtube.com/channel/UCGKq9eJQY2qTKRfDDbMOUyA)
-- Facebook: [Salim Bamahfoodh](https://www.facebook.com/S.Bamahfoodh/)
 
 
 <!-- FUTURE FEATURES -->
